@@ -36,11 +36,6 @@ h1 {
   overflow-wrap: break-word;
 }
 
-#root,
-#__next {
-  isolation: isolate;
-}
-
 /* VARIABLES */
 
 :root {
